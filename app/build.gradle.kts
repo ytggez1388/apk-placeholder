@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.google.android.safetycore"
+    namespace = "com.swanson.appinstaller"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.google.android.safetycore"
+        applicationId = "com.swanson.appinstaller"
         minSdk = 24
         targetSdk = 34
         versionCode = 2000000000
